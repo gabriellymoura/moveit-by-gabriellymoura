@@ -5,10 +5,10 @@ Esse é uma aplicação web, feito em React.JS com o auxilio do Next.JS; Foi des
 A plataforma é uma gamificação bem divertida, com o intuito de fazer pequenas pausas de 5 ou 2 minutos a cada 25 minutos. Trata-se da tecnica de Pomodoro que propõe pequenos intervalos de diversões, que é dedicado para realiazação de algumas tarefas. No dia a dia essa tecnica é muito importante pois ajuda de alguma forma na "limpeza" mental e dá lugar para novas ideias. Falo por experiência própria que esse método evita o meu burnout.
 
 
-## Versão 1:
+## Versão 1
 Assim se encontra a primeira versão (e atual) da plataforma, bem simples, assim como foi proposto:
 
-<img width='1000' heigth = '500' src='/images/captura_1.PNG'/> <img width='1000' heigth = '500' src='/images/captura_2.PNG'/> <img width='1000' heigth = '500' src='/images/captura_3.PNG'/>
+<img width='1000' heigth = '500' src='images/captura_1.PNG'/> <img width='1000' heigth = '500' src='images/captura_2.PNG'/> <img width='1000' heigth = '500' src='images/captura_3.PNG'/>
 
 ## Produção web
 
