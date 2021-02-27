@@ -1,8 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Um olÁ para vocÊ
+
+Esse é uma aplicação web, feito em React.JS com o auxilio do Next.JS; Foi desenvolvido na NLW da rocketseat, com design e metodologias proposto por eles.
+
+A plataforma é uma gamificação bem divertida, com o intuito de fazer pequenas pausas de 5 ou 2 minutos a cada 25 minutos. Trata-se da tecnica de Pomodoro que propõe pequenos intervalos de diversões, que é dedicado para realiazação de algumas tarefas. No dia a dia essa tecnica é muito importante pois ajuda de alguma forma na "limpeza" mental e dá lugar para novas ideias. Falo por experiência própria que esse método evita o meu burnout.
+
+
+## Versão 1:
+Assim se encontra a primeira versão (e atual) da plataforma, bem simples, assim como foi proposto:
+
+<img width='1000' heigth = '500' src='/images/captura_1.PNG'/> <img width='1000' heigth = '500' src='/images/captura_2.PNG'/> <img width='1000' heigth = '500' src='/images/captura_3.PNG'/>
+
+## Produção web
+
+Atualmente não tem uma versão em production na Vercel, pois decidi dar prioridade para no futuro fazer uma versão 2.0 com meu estilo e caracteristicas. 
+
+Então, vamos aguardar os próximos passos.
 
 ## Getting Started
-
-First, run the development server:
+Para executar o projeto de forma local, basta fazer o clone do repositório e executar com os sequintes comandos:
 
 ```bash
 npm run dev
@@ -10,25 +25,6 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A aplicação irá rodar em [http://localhost:3000](http://localhost:3000), então basta acessar através do navegador e sucesso!
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
