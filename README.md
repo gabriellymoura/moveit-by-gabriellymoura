@@ -8,7 +8,7 @@ A plataforma é uma gamificação bem divertida, com o intuito de fazer pequenas
 ## Versão 1
 Assim se encontra a primeira versão (e atual) da plataforma, bem simples, assim como foi proposto:
 
-<img width='1000' heigth = '500' src='images/captura_1.jpg'/> <img width='1000' heigth = '500' src='images/captura_2.jpg'/> <img width='1000' heigth = '500' src='images/captura_3.jpg'/>
+<img width='1000' heigth = '500' src='/public/images/captura_1.jpg'/> <img width='1000' heigth = '500' src='/public/images/captura_2.jpg'/> <img width='1000' heigth = '500' src='/public/images/captura_3.jpg'/>
 
 ## Produção web
 
